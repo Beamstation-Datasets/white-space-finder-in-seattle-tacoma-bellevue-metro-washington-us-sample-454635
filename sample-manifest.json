@@ -1,12 +1,12 @@
 {
-  "export_job_id": "21ebb59c-606a-42ff-a38b-226bcbee30ed",
+  "export_job_id": "b6f8dcf2-797a-4615-bb28-9e458a3f72d4",
   "id_short": 454635,
-  "published_at": "2026-04-12T19:10:34Z",
+  "published_at": "2026-04-18T19:09:43Z",
   "repo_name": "white-space-finder-in-seattle-tacoma-bellevue-metro-washington-us-sample-454635",
   "sample_asset_name": "beamstation_454635_food_and_drink-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/454635/beamstation_454635_food_and_drink-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "8f97eec7536e9a97463b71e9555d5319dbff94751d803d4a1b12689ecd59bd29",
-  "sample_size_bytes": 20540,
-  "total_records": 17
+  "sample_sha256": "03ff3cf367ca53fc557e4023590e2b16122b43267f375eb621ad8f7b652a4332",
+  "sample_size_bytes": 20208,
+  "total_records": 16
 }
