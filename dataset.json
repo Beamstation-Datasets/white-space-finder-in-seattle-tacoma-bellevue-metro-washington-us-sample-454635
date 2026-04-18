@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Seattle-Tacoma-Bellevue, WA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Seattle-Tacoma-Bellevue (Metro), Washington, US",
-  "export_job_id": "21ebb59c-606a-42ff-a38b-226bcbee30ed",
+  "export_job_id": "b6f8dcf2-797a-4615-bb28-9e458a3f72d4",
   "github_org": "Beamstation-Datasets",
   "id_short": 454635,
   "location_name": "Seattle-Tacoma-Bellevue, WA",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-seattle-tacoma-bellevue-metro-washington-us-sample-454635",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/454635/beamstation_454635_food_and_drink-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
-  "sample_pct": 5.88,
+  "sample_pct": 6.25,
   "sample_records": 1,
-  "sample_sha256": "8f97eec7536e9a97463b71e9555d5319dbff94751d803d4a1b12689ecd59bd29",
-  "sample_size_bytes": 20540,
-  "total_records": 17,
-  "updated_at": "2026-04-07T16:46:12.767777+00:00"
+  "sample_sha256": "03ff3cf367ca53fc557e4023590e2b16122b43267f375eb621ad8f7b652a4332",
+  "sample_size_bytes": 20208,
+  "total_records": 16,
+  "updated_at": "2026-04-14T22:35:53.300838+00:00"
 }
